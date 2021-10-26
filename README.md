@@ -1,4 +1,4 @@
-# ASUS ROG MAXIMUS XI CODE Hackintosh
+# ASUS ROG MAXIMUS XI CODE Z390 Hackintosh
 [![](https://img.shields.io/badge/Gitter%20HL%20Community-Chat-informational?style=flat&logo=gitter&logoColor=white&color=ed1965)](https://gitter.im/Hackintosh-Life-IT/community)
 [![](https://img.shields.io/badge/Repository-SASATech-informational?style=flat&logo=apple&logoColor=white&color=9debeb)](https://github.com/SASA-Tech?tab=repositories)
 [![](https://img.shields.io/badge/Telegram-HackintoshLifeIT-informational?style=flat&logo=telegram&logoColor=white&color=5fb659)](https://t.me/HackintoshLife_it)
@@ -7,7 +7,7 @@
 #### *Read this in other languages: [English](README.EN.md).* 🇺🇲 (Writing... :pen: )
 
 # Italian Repository :it: 
-### macOS Monterey correttamente installato su ASUS ROG MAXIMUS XI CODE
+### macOS Monterey correttamente installato su ASUS ROG MAXIMUS XI CODE Z390
 
 # Specifiche:
 
@@ -75,7 +75,7 @@ Se non utilizzate una scheda grafica AMD della serie NAVI, togliete il bootarg _
 - [x] NVRAM
 - [x] Avvio Windows da OpenCore
 
-# Sezione Info SSDT ASUS ROG MAXIMUS XI CODE
+# Sezione Info SSDT ASUS ROG MAXIMUS XI CODE Z390
 
 ![SSDT](./Screenshot/SSDT.png)
 
