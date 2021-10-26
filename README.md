@@ -19,11 +19,12 @@
 | dGPU             | AMD Radeon RX 5700 XT              |
 | Audio            | ALCS1220                           |
 | WiFi + Bluetooth | Intel® Wireless-AC 9560            |
-| RAM              | 64 GB DDR4 3200 Mhz                |
+| RAM              | 64 GB DDR4 2133 Mhz                |
 | NVMe             | Samsung MZ-V7P512BW                |
 | SMBIOS           | iMacPro1,1                         |
 | Bootloader       | OpenCore 0.7.4                     |
 
+![infodp0](./Screenshot/AboutThisMac.png)
 ![infodp1](./Screenshot/Mobo.png)
 
 ## Di default la GUI di OC è impostata in 1920x1080.
