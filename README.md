@@ -13,7 +13,7 @@
 
 | Componenti       | Modello                            |
 | ---------------- | ---------------------------------- |
-| Scheda Madre     | ASUS ROG MAXIMUS XI CODE           | 
+| Scheda Madre     | ASUS ROG MAXIMUS XI CODE Z390      | 
 | CPU              | Intel i9 9900K                     | 
 | iGPU             | Intel® UHD Graphics 630            |
 | dGPU             | AMD Radeon RX 5700 XT              |
