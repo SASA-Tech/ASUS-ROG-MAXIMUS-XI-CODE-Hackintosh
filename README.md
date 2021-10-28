@@ -34,10 +34,10 @@ Se avete una risoluzione diversa, recatevi in EFI > OC, cancellate la cartella R
 
 ## NOTE:
 - Kexts aggiornati alle ultime versioni.
-- Se volete installare Big Sur, in post installazione sostituite il kext Airportitlwm con la versione per Big Sur, in più togliete BlueToolFixup e aggiungete IntelBluetoothInjector.
-- In post installazione cancellate il config.plist e rinominate il config post-install.plist in config.plist.
+- **Se volete installare Big Sur** in post installazione sostituite il kext Airportitlwm con la versione per Big Sur, in più togliete BlueToolFixup e aggiungete IntelBluetoothInjector.
+- **In post installazione** cancellate il config.plist e rinominate il config post-install.plist in config.plist.
 - **Se volete utilizzare la iGPU in post installazione** cancellate config.plist e rinominate config-igpu-post-install.plist in config.plist
-- Se non utilizzate una scheda grafica AMD della serie NAVI, togliete il bootarg __agdpmod=pikera__
+- **Se non utilizzate una scheda grafica AMD della serie NAVI** togliete il bootarg agdpmod=pikera
 
 # Impostazioni Bios
 
