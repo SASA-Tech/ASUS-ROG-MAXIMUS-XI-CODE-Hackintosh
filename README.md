@@ -30,11 +30,13 @@
 ## Di default la GUI di OC è impostata in 1920x1080.
 Se avete una risoluzione diversa, recatevi in EFI > OC, cancellate la cartella Resources e scompattate quella che vi interessa.
 
+**Trovate le GUI di HackintoshLife [qui](https://github.com/SASA-Tech/GUI-OpenCanopy-Hackintosh-Life)**
+
 ## NOTE:
-Kexts aggiornati alle ultime versioni.
-Se volete installare Big Sur, in post installazione sostituite il kext Airportitlwm con la versione per Big Sur, in più togliete BlueToolFixup e aggiungete IntelBluetoothInjector.
-Se volete utilizzare la iGPU, rinominate config-igpu.plist in config.plist.
-Se non utilizzate una scheda grafica AMD della serie NAVI, togliete il bootarg __agdpmod=pikera__
+- Kexts aggiornati alle ultime versioni.
+- Se volete installare Big Sur, in post installazione sostituite il kext Airportitlwm con la versione per Big Sur, in più togliete BlueToolFixup e aggiungete IntelBluetoothInjector.
+- Se volete utilizzare la iGPU, rinominate config-igpu.plist in config.plist.
+- Se non utilizzate una scheda grafica AMD della serie NAVI, togliete il bootarg __agdpmod=pikera__
 
 # Impostazioni Bios
 
@@ -72,7 +74,7 @@ Se non utilizzate una scheda grafica AMD della serie NAVI, togliete il bootarg _
 - [x] Porte USB
 - [x] Intel® Wireless-AC 9560
 - [x] Intel® I219V LAN
-- [x] NVRAM
+- [x] NVRAM (Nativa)
 - [x] Avvio Windows da OpenCore
 
 # Sezione Info SSDT ASUS ROG MAXIMUS XI CODE Z390
